@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+_debug*
+.venv/
+
+# generated cache and local dataset
+cache/
+DATA/
